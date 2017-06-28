@@ -5,4 +5,7 @@
   - in this lecture, I learned how to draw a graph using plot/ggplot functions
   
 ## using function
-  - 
+  - plot & ggplot function : draw a graph
+  - for loop 
+  - aggregate function : like sumif function in excel
+  - grep function : when I extract certain word in data frame
